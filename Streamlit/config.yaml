@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    jtielmann:
+      email: jaspertiel07@gmail.com
+      name: Jasper Tielmann
+      password: $2b$12$nfyHGrjHo9RlYEjxIOiZtucorNTwDvMMQL3Gme0QTGPpEYvjuKv4e
+    peter:
+      email: peter@schweyer.de
+      name: peter schweyer
+      password: $2b$12$ZWwbElDpoWtnKzK9yGsTNeF5IKLgNrp4DzVf7duwKkHdpeqXu57GG
+cookie:
+  expiry_days: 30
+  key: MV_bhnkfd2v6EZK-1QkLu-Ac6gvCzRXf6mVbE22-c6o
+  name: some_cookie_name
