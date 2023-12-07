@@ -11,7 +11,7 @@ Application Process: Information on application deadlines, required documents, a
 Useful Resources: Links to additional resources and websites that can aid in study planning and life in Germany.
 
 Installation
-Clone the repository: git clone https://github.com/your-username/study-search-germany.git
+Clone the repository: git clone 
 Navigate to the directory: cd study-search-germany
 Install dependencies: npm install
 Start the application: npm start
