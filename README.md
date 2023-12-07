@@ -22,3 +22,4 @@ Once the application is running, access it through your web browser by running y
 Disclaimer:
 This project is for educational and informational purposes only. The information provided does not guarantee admission or accuracy. Users are encouraged to verify details with respective universities and educational authorities.
 
+
