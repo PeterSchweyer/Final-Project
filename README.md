@@ -1,6 +1,6 @@
 # Final-Project
 
-University finder in Germany:
+#**University finder in Germany:**
 For this project I designed a website to assist students in finding study opportunities in Germany. The platform offers a user-friendly interface to search through various courses, universities, and information regarding study conditions in Germany.
 The reason behind this is my interest in finding a great Uni for myself, in order have a greate time as a student and not regreting the choice after. 
 
