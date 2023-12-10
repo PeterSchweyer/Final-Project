@@ -1,0 +1,5 @@
+pandas==1.5.3
+PyYAML==6.0
+PyYAML==6.0.1
+streamlit==1.28.2
+streamlit_authenticator==0.2.3
