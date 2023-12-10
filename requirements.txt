@@ -1,4 +1,0 @@
-pipreqs C:\Users\Peter Schweyer\Data analatics\projects\final_project
-
-
-
